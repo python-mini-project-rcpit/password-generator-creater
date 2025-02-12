@@ -8,3 +8,5 @@ pip install Flask
 python app.py
 
 5.	Access the Tool: Open your browser and go to http://127.0.0.1:5000 to access the password strength checker.
+
+You can get the code or use the exe file also 
